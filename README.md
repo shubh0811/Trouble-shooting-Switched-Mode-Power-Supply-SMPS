@@ -28,6 +28,8 @@ https://github.com/shubh0811/Trouble-shooting-Switched-Mode-Power-Supply-SMPS/bl
 #### Although  the soldering was not up to the mark because i had to join a piece of steel in it, because the path of the PCB was un connected. 
 
 #### After connection of the new components i connect the SMPS to the main supply and it perfectly worked gave the output of the 24 volt.
+
+
 #### Here is the video if you wish to check it ,https://github.com/shubh0811/Trouble-shooting-Switched-Mode-Power-Supply-SMPS/blob/master/Perfectly%20working%20SMPS.mp4                       
 
 
